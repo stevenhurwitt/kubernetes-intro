@@ -1,0 +1,1 @@
+ssh -i "~/steven-reddit-key.pem" ubuntu@ec2-18-189-215-98.us-east-2.compute.amazonaws.com
